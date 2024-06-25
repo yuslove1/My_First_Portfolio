@@ -18,3 +18,27 @@ aside{
     flex: 1;
     overflow-y: auto;
 }
+
+.right{
+    border: 1px solid #fce694;
+    border-radius: 1em;
+    padding: 1em;
+    
+}
+
+.logo{
+    color: #fce694;
+}
+
+header li span{
+    color:#fce694; ;
+}
+
+main h2{
+    color: #a4b602;
+}
+
+main h3 {
+        border-bottom: 1px solid rgb(221, 221, 221);
+        transition: border-bottom-color 1s e
+}

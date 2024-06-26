@@ -20,7 +20,7 @@ aside{
 }
 
 .right{
-    border: 1px solid #fce694;
+    border: 1px solid #d81213;
     border-radius: 1em;
     padding: 1em;
     
@@ -29,15 +29,15 @@ aside{
 
 
 .logo{
-    color: #fce694;
+    color: #f80024;
 }
 
 header li span{
-    color:#fce694; ;
+    color:#d81213; ;
 }
 
 main h2{
-    color: #a4b602;
+    color: #9b5b27;
 }
 
 img{
